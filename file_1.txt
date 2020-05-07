@@ -2,3 +2,6 @@ Encore, do you want more?
 Hello world
 Bienvenue
 Why is it so cold out
+this line
+that line
+the other line
